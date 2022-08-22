@@ -3,4 +3,4 @@ This repository contains the tweaks/customization I've done to my DevTerm, runni
 
 Unless otherwise noted, everything in this repository is written on the DevTerm itself, including processing the pull requests to merge the changes.
 
-I suggest starting with [TWEAKS.MD](/TWEAKS.MD), as this will contain what I consider essential tweks for the DevTerm.
+I suggest starting with [the tweaks page](/TWEAKS.md), as this will contain what I consider essential tweks for the DevTerm.
